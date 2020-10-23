@@ -1,3 +1,5 @@
+Coucou
+
 # Cours pour apprendre Git et ses bonnes pratiques
 
 Ces cours sont sous licence CC BY. Les ressources utilisées par le cours sont toujours notées dans les fichiers notes.md
